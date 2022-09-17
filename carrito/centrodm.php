@@ -1,0 +1,1 @@
+<h1>Este es el Centro de mensajes</h1>
